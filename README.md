@@ -1,9 +1,5 @@
 # 子豪兄官方合作伙伴
 
-## OpenMMLab内推
-
-https://t.bilibili.com/641460598469558292?tab=2
-
 ## AI算力平台
 
 给大家推荐两个云GPU算力平台，如果大家课题组缺显卡可以使用。没有必要自己买显卡、买电脑配深度学习环境哈（除非是打游戏找借口）
@@ -19,4 +15,10 @@ https://t.bilibili.com/653035638327607316?tab=2
 
 ## 大厂合作
 
-百度飞桨EasyDL、文心ERNIE3.0大模型：https://www.bilibili.com/video/BV1W44y1g7cB
+华为：https://space.bilibili.com/1900783/channel/seriesdetail?sid=2343872
+
+百度：https://space.bilibili.com/1900783/channel/seriesdetail?sid=2411108
+
+## OpenMMLab内推
+
+https://t.bilibili.com/641460598469558292?tab=2
