@@ -1,5 +1,7 @@
 # 子豪兄官方合作伙伴
 
+![给子豪兄打赏](https://zihao-download.obs.cn-east-3.myhuaweicloud.com/img_bed/20220803/%E7%BB%99%E5%AD%90%E8%B1%AA%E5%85%84%E6%89%93%E8%B5%8F.png)
+
 ## AI算力平台
 
 给大家推荐两个云GPU算力平台，如果大家课题组缺显卡可以使用。没有必要自己买显卡、买电脑配深度学习环境哈（除非是打游戏找借口）
