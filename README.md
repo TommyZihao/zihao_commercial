@@ -1,6 +1,7 @@
-# 子豪兄官方合作伙伴
-
+# 给子豪兄微信打赏
 ![给子豪兄打赏](https://zihao-download.obs.cn-east-3.myhuaweicloud.com/img_bed/20220803/%E7%BB%99%E5%AD%90%E8%B1%AA%E5%85%84%E6%89%93%E8%B5%8F.png)
+
+# 子豪兄官方合作伙伴
 
 ## AI算力平台
 
