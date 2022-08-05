@@ -1,7 +1,7 @@
-# 给子豪兄微信打赏
-![给子豪兄打赏](https://zihao-download.obs.cn-east-3.myhuaweicloud.com/img_bed/20220803/%E7%BB%99%E5%AD%90%E8%B1%AA%E5%85%84%E6%89%93%E8%B5%8F.png)
+# 优雅地感谢子豪兄
 
-# 子豪兄官方合作伙伴
+## 微信打赏
+![给子豪兄打赏](https://zihao-download.obs.cn-east-3.myhuaweicloud.com/img_bed/20220803/%E7%BB%99%E5%AD%90%E8%B1%AA%E5%85%84%E6%89%93%E8%B5%8F.png)
 
 ## AI算力平台
 
@@ -25,3 +25,7 @@ https://t.bilibili.com/653035638327607316?tab=2
 ## OpenMMLab内推
 
 https://t.bilibili.com/641460598469558292?tab=2
+
+## 子豪兄的代码铺子
+
+https://appjaflfup94042.h5.xiaoeknow.com
