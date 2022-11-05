@@ -22,6 +22,8 @@ https://t.bilibili.com/653035638327607316?tab=2
 
 百度：https://space.bilibili.com/1900783/channel/seriesdetail?sid=2411108
 
+阿里达摩院：https://www.bilibili.com/video/BV1d24y1f7Gi
+
 ## OpenMMLab内推
 
 https://t.bilibili.com/641460598469558292?tab=2
